@@ -1,7 +1,7 @@
 # Landing-Page
 
 # Overview
-This project is a simple e-learning landing page designed to showcase the features and benefits of an online learning platform. The landing page includes sections such as a header, features, testimonials and a footer. It is built using HTML, CSS, and JavaScript.
+This project is a simple e-learning landing page designed to showcase the features and benefits of an online learning platform. It is built using HTML, CSS, and JavaScript.
 
 # Features
 Responsive Design: The landing page is fully responsive and looks great on all devices, from desktop to mobile.
