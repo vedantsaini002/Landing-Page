@@ -14,7 +14,9 @@ Easy Customization: The code is well-organized and easy to customize.
 
 # Technologies Used
 HTML: Used for structuring the content of the landing page.
+
 CSS: Used for styling the landing page.
+
 JavaScript: Used for adding interactivity and enhancing user experience.
 
 # Output
